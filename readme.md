@@ -14,3 +14,5 @@ _the original authors of these projects will be given due credit_
     * [part 7 - Sounds](https://www.youtube.com/watch?v=YZknoOWCaj4&ab_channel=TokyoEdtech)
     * [part 8 - AI player](https://www.youtube.com/watch?v=-btAvvPCpUA&ab_channel=TokyoEdtech)
     * [part 9 - Extra Ball](https://www.youtube.com/watch?v=wfZOyFuZNNw&ab_channel=TokyoEdtech)
+
+_I've done some changes to this one since the project was originaly compiled on mac and I have a windows pc_
