@@ -3,6 +3,7 @@
 ### this little space is for the python tutorials I follow for practice
 
 _the original authors of these projects will be given due credit_
+
 _I've done some changes to this one since the project was originaly compiled on mac and I have a windows pc_
 
 1. Pong game (by [TokyoEdTech](https://www.youtube.com/@TokyoEdTech))
